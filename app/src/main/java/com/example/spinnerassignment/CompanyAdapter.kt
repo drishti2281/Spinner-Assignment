@@ -26,3 +26,4 @@ class CompanyAdapter(var arrayList: ArrayList<String>) : BaseAdapter() {
         return initView
     }
 }
+
